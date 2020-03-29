@@ -13,10 +13,10 @@
             <h1>JavaJam Coffee House</h1>
         </header>
         <nav>
-            <a href="index.html">Home</a> &nbsp;
-            <a href="menu.html">Menu</a> &nbsp;
-            <a href="music.html">Music</a> &nbsp;
-            <a href="jobs.html">Jobs</a>
+            <a href="index.php">Home</a> &nbsp;
+            <a href="menu.php">Menu</a> &nbsp;
+            <a href="music.php">Music</a> &nbsp;
+            <a href="jobs.php">Jobs</a>
         </nav>
         <main>
             <h2>Jobs at JavaJam</h2>
